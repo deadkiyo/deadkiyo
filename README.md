@@ -29,7 +29,7 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stultus.rikyo) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyo-slip@proton.me) 
 
-> btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff I do is locally then upload it later as broken mess. Ho also a student who is broke i have make some bread to feed myself, i work  i maybe offline a little bit here and there. sorry for that   
+> btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff  is locally then upload it later as broken mess. Ho also a student who is broke i have make some bread to feed myself, i work  i maybe offline a little bit here and there. sorry for that   
 
 ###
 
