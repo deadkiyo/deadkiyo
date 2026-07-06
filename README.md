@@ -44,31 +44,7 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 
 <h10 align="center">i use arch btw.</h10>
 
-```
->>>>r&<>>><<ii<BX,,B^ ";    ^    b>>>>>>
->>>-Bicun*>d|   .1f<>1(>>>><>:  (%   >  
->><OB%` 'Ipu;    )<>~8>>>>>>>>  0'   >. 
->>o  .wB\    Wf  h>>i8>>>>>>>: rm.   ~ z
->\; &8.       ]o r>i%J>>>>>>>>>Lw-   <  
-_~  $          \ *<*.#O>>>>>>>|dali>>l,;
-k   B         ,v &M  {kZ>>>>>>M8 0X>>>>>
-    /'        IB  &    `%b<>><*b  ]J>>>>
-    O8`    ^8LW           .B]i!( .[`"?i>
-     'B@B$qQ                 dM&@`U"/@8>
-                           `oz..!     @?
-               '           0"         .%
-            [#8adj%        B          )B
-           [@&&U>>>>mw''   Z&        '%|
-          /%<>>>>>>>><>i%: (%B      oLY>
-          c>>>>>>>>>>>>>>)!  ljq@Mh'Cu>>
-         p>>>>>>>>>>>>>><>M       "d><>>
-        o@>>>>>>>>>>>>>>>>B     8+><k@*>
-        *><>>>>>>>>>>>>>><Y  oU!i<<>>>>>
-@-      io>>>>>>>>>>>>>>>i*   "h<>>>>>>>
-W<*@      <@O~>>>>>>>>>>tC       %@i>>>>
-&B>>Q@1       c#~>>>>1@]          >@irw@
 
-```
 ### ✍️ Random Dev Quote
 
 <center>
