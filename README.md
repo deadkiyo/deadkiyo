@@ -5,7 +5,11 @@
 
 * Hi, kiyo here. How are you? I like to code,   make stuff, etc.
 
-* I am a student currently. Most of the project I do are a little on the line of dumb stuff, but i do try my best to make it as dumb as possible. 
+* I am a student currently. Most of the project I do are a little on the line of dumb stuff, but i do try my best to make it as dumb as possible.
+
+* I try to make most of my project MIT and everyone can use it if they want without any problem, if you want to ask me about anything just contact me. if I am not sleeping or lazy I will answer you no prob. Most of the time of the day
+
+
 </h4>
 
 ###
