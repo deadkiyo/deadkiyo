@@ -1,16 +1,82 @@
-## Hi there 👋
 
-<!--
-**deadkiyo/deadkiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hey, What's up?👋</h1>
 
-Here are some ideas to get you started:
+<h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hi, kiyo here. How are you? I like to code,   make stuff, etc.
+
+* I am a student currently. Most of the project I do are a little on the line of dumb stuff, but i do try my best to make it as dumb as possible. 
+</h4>
+
+###
+
+<h2 align="left">About me in short:</h2>
+
+###
+
+<p align="left"><br>- 📚 I'm currently learning electronic, coding, and some mechanical stuff<br><br>- 🎯 Goals: i wanna build stuff especially stupid ones<br><br> - 🌐 language:
+I try to stick to one language, mostly Python, since it suits my stuff... but depending on what i am working on i try to use a language best suited for that
+
+<center>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deadkiyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</center>
+
+###
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](kiyo.indeadrikyo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stultus.rikyo) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyo-slip@proton.me) 
+
+> btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff I do is locally then upload it later as broken mess. Ho also a student who is broke i have make some bread to feed myself, i work  i maybe offline a little bit here and there. sorry for that   
+
+###
+
+###
+
+<h4 align="center">i believe in the words of Karl Marx and Adam Smith <br>as so all property rights ultimately resolve in my favor. Consequently, everything you make is mine, everything I make is mine, and I reserve the right to enthusiastically enjoy the entirety of the open-source ecosystem.</h4>
+
+###
+
+<div align="left">
+</div>
+
+<h10 align="center">i use arch btw.</h10>
+
+```
+>>>>r&<>>><<ii<BX,,B^ ";    ^    b>>>>>>
+>>>-Bicun*>d|   .1f<>1(>>>><>:  (%   >  
+>><OB%` 'Ipu;    )<>~8>>>>>>>>  0'   >. 
+>>o  .wB\    Wf  h>>i8>>>>>>>: rm.   ~ z
+>\; &8.       ]o r>i%J>>>>>>>>>Lw-   <  
+_~  $          \ *<*.#O>>>>>>>|dali>>l,;
+k   B         ,v &M  {kZ>>>>>>M8 0X>>>>>
+    /'        IB  &    `%b<>><*b  ]J>>>>
+    O8`    ^8LW           .B]i!( .[`"?i>
+     'B@B$qQ                 dM&@`U"/@8>
+                           `oz..!     @?
+               '           0"         .%
+            [#8adj%        B          )B
+           [@&&U>>>>mw''   Z&        '%|
+          /%<>>>>>>>><>i%: (%B      oLY>
+          c>>>>>>>>>>>>>>)!  ljq@Mh'Cu>>
+         p>>>>>>>>>>>>>><>M       "d><>>
+        o@>>>>>>>>>>>>>>>>B     8+><k@*>
+        *><>>>>>>>>>>>>>><Y  oU!i<<>>>>>
+@-      io>>>>>>>>>>>>>>>i*   "h<>>>>>>>
+W<*@      <@O~>>>>>>>>>>tC       %@i>>>>
+&B>>Q@1       c#~>>>>1@]          >@irw@
+
+```
+### ✍️ Random Dev Quote
+
+<center>
+    
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    
+</center>
+
+
+
+###
