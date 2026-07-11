@@ -7,7 +7,7 @@
 
 * I am a student currently. Most of the project I do are a little on the line of dumb stuff, but i do try my best to make it as dumb as possible.
 
-* I try to make most of my project MIT and everyone can use it if they want without any problem, if you want to ask me about anything just contact me. if I am not sleeping or lazy I will answer you no prob. Most of the time of the day
+*  most of my project are MIT so everyone can use it if they want without any problem, if you want to ask me about anything just contact me. if I am not sleeping or busy I will answer you no prob. Most of the time of the day
 
 
 </h4>
@@ -29,9 +29,9 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 
 ###
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](kiyo.indeadrikyo) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stultus.rikyo) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyo-slip@proton.me) 
+* ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white): kiyo.indeadrikyo 
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stultus.rikyo): stultus.rikyo
+* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyo-slip@proton.me): kiyo-slip@proton.me
 
 > btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff locally then upload it later as a broken mess. oh also i am a student who is a brokey so i have to make some bread to feed myself, becu of that i have a j*b i maybe offline a little bit here and there. sorry for that
 
