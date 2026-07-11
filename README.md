@@ -46,8 +46,6 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 <div align="left">
 </div>
 
-<h10 align="center">i use arch btw.</h10>
-
 
 ### ✍️ Random Dev Quote
 
