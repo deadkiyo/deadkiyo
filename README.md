@@ -33,7 +33,8 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 * [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stultus.rikyo): stultus.rikyo
 * [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyo-slip@proton.me): kiyo-slip@proton.me
 
-> btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff locally then upload it later as a broken mess. oh also i am a student who is a brokey so i have to make some bread to feed myself, becu of that i have a j*b i maybe offline a little bit here and there. sorry for that
+> btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff locally then upload it later as a broken mess. oh also i am a student who is a brokey so i have to make some bread to feed myself, becu of that i have a job. i maybe offline a little bit here and there. sorry for that.
+> im jobless again so... 
 
 ###
 
