@@ -19,8 +19,8 @@
 ###
 
 <p align="left"><br>- 📚 I'm currently learning electronic, coding, and some mechanical stuff<br><br>- 🎯 Goals: i wanna build stuff especially stupid ones<br><br> - 🌐 language:
-I try to stick to one language, mostly Python, since it suits my stuff... but depending on what i am working on i try to use a language best suited for that
-
+I try to stick to one language, mostly Python, since it suits my stuff... but depending on what i am working on i try to use a language best suited for that <br>
+> i have not mastered git sorry 
 <center>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deadkiyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
