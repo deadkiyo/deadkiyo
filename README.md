@@ -5,9 +5,9 @@
 
 * Hi How are you? I like to code,make stuff, etc.
 
-* I am a student currently. Most of the project I do are a little on the line of dumb stuff.
+* I am a student currently. Most of the project I do are a little on the line of Crappy stuff.
 
-* most of my project are MIT so everyone can use it if they want without any problem, if you want to ask me about anything just contact me. i will try to answer Most of the time of the day.
+* most of my project are MIT so everyone can use it if they want without any problem, if you want to ask me about anything just contact me. i will try my best to answer Most of it. any time of the day.
 
 
 </h4>
@@ -34,8 +34,6 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 * [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiyo-slip@proton.me): kiyo-slip@proton.me
 
 > btw, my heat map is kind of bad since I live like a caveman...and I do most of the stuff locally then upload it later as a broken mess. oh also i am a student living away from my stuff in a area without network, becu of that  i maybe offline a little bit here and there. sorry for that.<br>
-> update: im jobless again so... 
-
 ###
 
 ###
@@ -46,16 +44,5 @@ I try to stick to one language, mostly Python, since it suits my stuff... but de
 
 <div align="left">
 </div>
-
-
-### ✍️ Random Dev Quote
-
-<center>
-    
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-    
-</center>
-
-
 
 ###
